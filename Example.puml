@@ -1,0 +1,7 @@
+@startuml 
+
+!include ./Icons/all.puml
+
+listsprites
+
+@enduml

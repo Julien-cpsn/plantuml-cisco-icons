@@ -1,0 +1,5 @@
+@startuml
+
+!include <cisco/icons/icons.puml>.
+
+@enduml
