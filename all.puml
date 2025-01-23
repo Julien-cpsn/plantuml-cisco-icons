@@ -1,6 +1,6 @@
 @startuml
 
 !define CISCO_COLOR #006d99
-!include <cisco/icons/icons.puml>.
+!include <cisco/Icons/all.puml>.
 
 @enduml

@@ -1,7 +1,10 @@
-@startuml 
+@startuml
+!define CiscoPuml https://raw.githubusercontent.com/Julien-cpsn/plantuml-cisco-icons/master
+!include CiscoPuml/Icons/all.puml
+!define CISCO_COLOR #006d99
 
-!include ./Icons/all.puml
+Alice -> Bob : Test <$router,scale=0.75,color=CISCO_COLOR>
 
-listsprites
+'listsprites
 
 @enduml
